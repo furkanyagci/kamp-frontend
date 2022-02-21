@@ -26,7 +26,9 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            //*Uygulama boyunca tüm componentlerde geçerli olsun dediğin tüm css'leri buraya ekliyorsun
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
